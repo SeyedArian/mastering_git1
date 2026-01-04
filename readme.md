@@ -1,3 +1,6 @@
-## Hello, Git
+## Helloooooo everyone, welcome to my outstanding Git-guide 
 
-I'm adding this frome 'feature-branch'
+
+-Yo, Chungo here
+
+-I'm adding this frome 'feature-branch'
